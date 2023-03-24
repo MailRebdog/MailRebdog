@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEzMDBlNGIwYWE3NTA4OGQzZGViOTlmZDI1OTAwM2FlY2Q2YzhiYiZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif
+)
 
 <!--
 **MailRebdog/MailRebdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
